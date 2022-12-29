@@ -1,5 +1,8 @@
 _repo: Bonnie-Joann-and-other-poems_69484
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69484-h/images/cover.jpg
 creator:
   author:
     agent_name: Jacob, Violet
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7709
     wikipedia: https://en.wikipedia.org/wiki/Violet_Jacob
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69484#Bonnie-Joann-and-other-poems
 gutenberg_issued: '2022-12-06'
 identifiers:
   gutenberg: '69484'
